@@ -1,0 +1,12 @@
+{
+    "clientId": "test1",
+    "rootUrl": "http://authtest1.com.br/",
+    "enabled": true,
+    "redirectUris": [
+        "http://authtest1.com.br/*"
+    ],
+    "webOrigins": [
+        "http://authtest1.com.br"
+    ],
+    "publicClient": true
+}

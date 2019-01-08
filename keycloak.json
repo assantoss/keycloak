@@ -1,0 +1,10 @@
+{
+    "realm": "master",
+    "auth-server-url": "https://keycloak.gen.uoledtech.tk/auth",
+    "ssl-required": "external",
+    "resource": "test1",
+    "credentials": {
+      "secret": "bfc3adc1-2f0c-48f2-8d05-4b1bd522a590"
+    },
+    "confidential-port": 0
+  }

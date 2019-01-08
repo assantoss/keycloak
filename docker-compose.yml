@@ -1,0 +1,9 @@
+version: '3.2'
+
+services:
+   html5-test:
+     build: "."
+     ports:
+     - "80:80"
+     volumes:
+     - "./:/usr/share/nginx/html"
