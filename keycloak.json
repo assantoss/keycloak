@@ -1,6 +1,6 @@
 {
     "realm": "master",
-    "auth-server-url": "https://keycloak.gen.uoledtech.tk/auth",
+    "auth-server-url": "https://devopsbuilders.com/auth",
     "ssl-required": "external",
     "resource": "test1",
     "credentials": {
